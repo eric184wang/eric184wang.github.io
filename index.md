@@ -8,7 +8,7 @@ Hello all! I'm currently a third year at the Univerity of California, San Diego.
 
 Undergraduate, University of California, San Diego (Sept. 2022 - June 2026)  
 B.S. Computer Science, 3.8 GPA
-Regents Scholarship (top 1\% of students)
+Regents Scholarship (top 1% of students)
 
 # Experience
 
