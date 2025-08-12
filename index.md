@@ -2,48 +2,47 @@
 layout: default
 ---
 
-Hello all! I'm currently a third year at the Univerity of California, San Diego. I'm pursuing a B.S. in Computer Science and a B.S. in Math Economics. I am currently interested in AI/ML and its applications to the real life, especially how to optimize data and how to determine what features will help optimize models. 
 
-# Education
+Hi! I'm a third-year at UC San Diego pursuing a B.S. in Computer Science and a B.S. in Math–Economics. I’m excited about AI/ML and real-time systems, recently building VR LiDAR visualization and experimenting with deep learning for medical imaging.
 
-Undergraduate, University of California, San Diego (Sept. 2022 - June 2026)  
-B.S. Computer Science, 3.8 GPA
-Regents Scholarship (top 1% of students)
+## Education
+**University of California, San Diego** (Sep 2022 – Jun 2026)  
+B.S. Computer Science; B.S. Math–Economics — GPA 3.827 (Regents Scholar, top 1%)
+
+*Selected coursework:* Advanced Data Structures/Algorithms, Software Engineering, Operating Systems, Deep Learning, Machine Learning, AI (Search/Reasoning/Probabilistic), Recommender Systems & Web Mining, Computer Architecture
 
 # Experience
+**Software Engineering Intern — Piper Networks** (Jun 2025 – Present, San Diego, CA)  
+- Built an Oculus-ready LiDAR viewer in Godot/GDScript; added distance-measurement tools and multithreaded rendering to modernize legacy features.  
+- Implemented UWB testing & calibration in Python (validated in Excel) for the Piper Rail Positioning System—one of the only real-time train-safety platforms used in U.S. subways (MBTA, MTA)—achieving ≤200 mm positional accuracy.
 
-**Coding Expert**  
-*Outlier AI, Remote*  
-- Provided expert feedback  of AI-generated code to enhance the training  of generative AI models in order to increase the accuracy of the model.
-- Crafted and answered programming questions to enhance the model’s ability to handle complex coding problems for learning purposes.
-- _Technical Tools: Java, Python, C, C++_ 
+**Instructional Assistant — UCSD CSE Department** (Jan 2024 – Present)  
+- Teach and tutor data structures & algorithms; proctor weekly quizzes; coordinate on Slack and in weekly planning meetings.  
+- 75+ hours of support each quarter, assisting 400+ students.
 
-**Instructional Assistant for Data Structures and Object-Oriented Design**  
-*Computer Science and Engineering Department at the University of California, San Diego*   
-- Clarified concepts through office hours and ticket-based assistance, ensuring student knowledge in data structure principles and algorithms. 
-- Participated in weekly logistical meetings with the professor and fellow IAs to optimize tutoring strategies and student support.
-- Tutored over 1000 students, providing over 75 hours per quarter of tutoring for students.  
-- _Technical Tools: Java, Visual Studio Code, JUnit_
+**Undergraduate Researcher — Economics (Prof. Paul Niehaus), UCSD** (Mar 2025 – Jun 2025)  
+- Built Python data pipelines (BeautifulSoup, pandas, NumPy) to ingest and analyze large-scale household survey data.  
+- Modeled funding needed (~1% of U.S. income) to lift populations above the international poverty line; produced reports for faculty and philanthropists.
+
+**AI Coding Expert — Outlier AI** (Jun 2024 – May 2025, Remote)  
+- Evaluated AI-generated code and authored programming questions to improve model accuracy across Java, Python, C, and C++.
 
 # Projects
+**Alzheimer’s Detection/Classification Using CNNs** (Jun – Aug 2024)  
+- Multi-class CNN for MRI images; preprocessing + hyperparameter tuning; 92% accuracy; augmentation + dropout to prevent overfitting.  
+- Explored QCNNs; collaborated on a Streamlit UI to make results accessible to non-technical users.  
+_Tech:_ Python, PyTorch/TensorFlow, NumPy, pandas, Matplotlib, Streamlit
 
-*Alzheimer's detection using neural networks*
-- Developed a multi-class convolutional neural network to detect and classify Alzheimer’s disease stages from MRI images. Applied data preprocessing techniques and hyperparameter tuning to optimize performance, achieving 92% accuracy on both test and training sets.
-- Incorporated data augmentation and dropout layers to prevent overfitting, significantly improving the model’s generalization capability. 
-- Explored quantum-based classifiers to enhance computational efficiency, tested the feasibility of QCNNs for MRI image classification. 
-- Collaborated with the team to build an intuitive user interface using Streamlit, making the model easily accessible to potential users, including healthcare professionals.
-- _Technical Tools: Python, Streamlit, NumPy, pandas, Matplotlib, PyTorch_
-
-*Successorator (Android to-do list app)*
-- Created an app that let an User set and manage goals with customizable contexts and scheduling options for daily or future tasks. 
-- Incorporated agile software processes and behavior-driven development. Implemented robust object-oriented design principles including Single Responsibility, Dependency Inversion, and Open-Closed, ensuring scalable and maintainable codebase. 
-- Utilized various patterns such as Strategy, Observer, Model-View-Presenter, Abstract Factory, and Builder to optimize code architecture and enhance application flexibility.
-- Utilized Android Studio IDE while leading a team of six members in adopting efficient and collaborative Agile methodologies. 
-- Conducted comprehensive code reviews and utilized CI tools on GitHub to maintain high code quality and prevent bugs, leveraging Espresso for automated testing to validate feature functionalities. 
-- _Technical Tools: Java, JUnit, GIT, SQL, Andoid Studio, Github Actions CI_
+**Successorator (Android to-do app)** (Jan – Mar 2024)  
+- Goal/task app with contexts and schedules; applied Agile + BDD, SOLID principles, and patterns (Strategy, Adapter, Observer, MVP, Builder).  
+- Led a team of six; CI with GitHub Actions; Espresso tests and object mocking for reliability.  
+_Tech:_ Java, SQL, Android Studio, JUnit, GitHub Actions
 
 # Technical Skills
+- **Languages:** Java, Python, C, C++, SQL, JavaScript, HTML/CSS, ARM/x86 Assembly, MATLAB, GDScript  
+- **Tools/Frameworks:** Git/GitHub, GitHub Actions CI, Android Studio, JUnit, Eclipse, VS Code, Jupyter Notebooks, Excel, Godot Engine  
+- **Libraries:** pandas, NumPy, Matplotlib, PyTorch, TensorFlow, BeautifulSoup  
+- **Certificates:** JPMorgan Career.edYou Academy (2023), AWS Cloud Tech Essentials (2024)
 
-- **Languages**: Java, Python, C/C++, SQL, JavaScript, HTML/CSS  
-- **Developer Tools/Frameworks**: Git, GitHub, Docker, Visual Studio Code, Visual Studio, Eclipse, JUnit, Arduino, 
-- **Libraries**: pandas, NumPy, Matplotlib, PyTorch
+## Links
+[LinkedIn](https://www.linkedin.com/in/eric-2004-wang) • [GitHub](https://github.com/eric184wang) • [Email](mailto:eric184wang@gmail.com)
